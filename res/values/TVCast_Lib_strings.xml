@@ -1,0 +1,7 @@
+<resources>
+    <string name="TVCast_Lib_picker_select_device">Select a device</string>
+    <string name="TVCast_Lib_pairing_simple_title_tv">Pairing request</string>
+    <string name="TVCast_Lib_pairing_simple_prompt_tv">Confirm pairing on the TV</string>
+    <string name="TVCast_Lib_pairing_pin_prompt_tv">Enter pairing code displayed on TV</string>
+    <string name="TVCast_Lib_connection_failed">Enter pairing code displayed on TV</string>
+</resources>
